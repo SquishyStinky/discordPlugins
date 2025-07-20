@@ -1,0 +1,10 @@
+{
+  "name": "NSFW Blur",
+  "description": "Blur NSFW images in messages.",
+  "author": "yourname",
+  "version": "1.0.0",
+  "vendetta": {
+    "icon": "EyeOff",
+    "type": "plugin"
+  }
+}
