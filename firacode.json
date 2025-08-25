@@ -1,0 +1,25 @@
+{
+  "family": "FiraCode",
+  "fonts": [
+    {
+      "name": "FiraCode-Regular",
+      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf"
+    },
+    {
+      "name": "FiraCode-Bold",
+      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Bold.ttf"
+    },
+    {
+      "name": "FiraCode-Light",
+      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Light.ttf"
+    },
+    {
+      "name": "FiraCode-Medium",
+      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Medium.ttf"
+    },
+    {
+      "name": "FiraCode-SemiBold",
+      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-SemiBold.ttf"
+    }
+  ]
+}
