@@ -1,25 +1,21 @@
 {
-  "family": "FiraCode",
+  "family": "Roboto",
   "fonts": [
     {
-      "name": "FiraCode-Regular",
-      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf"
+      "name": "Roboto-Regular",
+      "src": "https://raw.githack.com/google/fonts/main/apache/roboto/Roboto-Regular.ttf"
     },
     {
-      "name": "FiraCode-Bold",
-      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Bold.ttf"
+      "name": "Roboto-Bold",
+      "src": "https://raw.githack.com/google/fonts/main/apache/roboto/Roboto-Bold.ttf"
     },
     {
-      "name": "FiraCode-Light",
-      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Light.ttf"
+      "name": "Roboto-Italic",
+      "src": "https://raw.githack.com/google/fonts/main/apache/roboto/Roboto-Italic.ttf"
     },
     {
-      "name": "FiraCode-Medium",
-      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Medium.ttf"
-    },
-    {
-      "name": "FiraCode-SemiBold",
-      "src": "https://raw.githack.com/tonsky/FiraCode/master/distr/ttf/FiraCode-SemiBold.ttf"
+      "name": "Roboto-BoldItalic",
+      "src": "https://raw.githack.com/google/fonts/main/apache/roboto/Roboto-BoldItalic.ttf"
     }
   ]
 }
